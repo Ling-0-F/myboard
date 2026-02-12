@@ -1,0 +1,21 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境（conda 环境不在项目内，但以防万一）
+venv/
+env/
+myenv/
+anaconda3/
+
+# 数据库文件（SQLite）
+*.db
+*.sqlite
+
+# 编辑器配置
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
